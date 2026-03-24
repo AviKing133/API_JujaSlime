@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_JujaSlime", "API_JujaSlime\API_JujaSlime.csproj", "{664ABA83-3392-41C2-A629-3EC23D2C53D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{664ABA83-3392-41C2-A629-3EC23D2C53D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664ABA83-3392-41C2-A629-3EC23D2C53D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664ABA83-3392-41C2-A629-3EC23D2C53D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664ABA83-3392-41C2-A629-3EC23D2C53D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E2595A5-6B7E-4723-99F1-CCF848500996}
+	EndGlobalSection
+EndGlobal
