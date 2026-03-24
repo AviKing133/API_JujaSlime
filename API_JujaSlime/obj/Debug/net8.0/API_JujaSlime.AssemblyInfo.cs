@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_JujaSlime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e3e3be58379f40dea1a8412e3af8149701831bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59019e9cfcacecad996c4500f3420b82f7d9c792")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_JujaSlime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_JujaSlime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

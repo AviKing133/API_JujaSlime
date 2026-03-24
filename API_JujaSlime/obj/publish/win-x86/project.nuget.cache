@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0DOFgUyT5Xk=",
+  "dgSpecHash": "VaOdIKzbRiU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\carus\\source\\repos\\ProyecteKanban\\API_JujaSlime\\API_JujaSlime\\API_JujaSlime.csproj",
+  "projectFilePath": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\API_JujaSlime.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carus\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512",
     "C:\\Users\\carus\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
@@ -19,20 +19,14 @@
     "C:\\Users\\carus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
     "C:\\Users\\carus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
     "C:\\Users\\carus\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
-    "C:\\Users\\carus\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
-    "C:\\Users\\carus\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\carus\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
     "C:\\Users\\carus\\.nuget\\packages\\system.security.permissions\\8.0.0\\system.security.permissions.8.0.0.nupkg.sha512",
     "C:\\Users\\carus\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512",
     "C:\\Users\\carus\\.nuget\\packages\\zstdsharp.port\\0.8.6\\zstdsharp.port.0.8.6.nupkg.sha512",
-    "C:\\Users\\carus\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512",
-    "C:\\Users\\carus\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
-    "C:\\Users\\carus\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.16\\microsoft.netcore.app.runtime.win-x86.8.0.16.nupkg.sha512",
-    "C:\\Users\\carus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
-    "C:\\Users\\carus\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.16\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.16.nupkg.sha512",
-    "C:\\Users\\carus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512",
-    "C:\\Users\\carus\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.16\\microsoft.aspnetcore.app.runtime.win-x86.8.0.16.nupkg.sha512",
-    "C:\\Users\\carus\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\8.0.16\\microsoft.netcore.app.host.win-x86.8.0.16.nupkg.sha512"
+    "C:\\Users\\carus\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\carus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\carus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\carus\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\8.0.22\\microsoft.netcore.app.host.win-x86.8.0.22.nupkg.sha512"
   ],
   "logs": []
 }
