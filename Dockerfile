@@ -1,18 +1,22 @@
-# Etapa 1: Compilación
+# Etapa de compilación
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
-# Cambia "API_JujaSlime.csproj" por el nombre exacto de tu archivo .csproj
-COPY ["API_JujaSlime.csproj", "./"]
-RUN dotnet restore "./API_JujaSlime.csproj"
+
+# COPIA CORREGIDA: Apuntamos a la subcarpeta donde está el archivo
+COPY ["API_JujaSlime/API_JujaSlime.csproj", "API_JujaSlime/"]
+RUN dotnet restore "API_JujaSlime/API_JujaSlime.csproj"
+
+# Copia el resto del código
 COPY . .
+WORKDIR "/src/API_JujaSlime"
 RUN dotnet publish "API_JujaSlime.csproj" -c Release -o /app/publish
 
-# Etapa 2: Ejecución
+# Etapa final de ejecución
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
 COPY --from=build /app/publish .
 
-# Render usa el puerto 10000 por defecto para Docker
+# Puerto para Render
 ENV ASPNETCORE_URLS=http://+:10000
 EXPOSE 10000
 
