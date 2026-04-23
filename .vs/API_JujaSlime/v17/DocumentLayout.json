@@ -1,54 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ProyectosVS\\API_JujaSlime\\",
+  "WorkspaceRootPath": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|d:\\proyectosvs\\api_jujaslime\\api_jujaslime\\controllers\\habilidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\controllers\\habilidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|c:\\users\\carus\\source\\repos\\api_jujaslime\\api_jujaslime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|d:\\proyectosvs\\api_jujaslime\\api_jujaslime\\controllers\\authcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|c:\\users\\carus\\source\\repos\\api_jujaslime\\api_jujaslime\\controllers\\authcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\controllers\\authcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|d:\\proyectosvs\\api_jujaslime\\api_jujaslime\\controllers\\bestiariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\controllers\\bestiariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|d:\\proyectosvs\\api_jujaslime\\api_jujaslime\\models\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\models\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|d:\\proyectosvs\\api_jujaslime\\api_jujaslime\\models\\habilidadsujeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\models\\habilidadsujeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|d:\\proyectosvs\\api_jujaslime\\api_jujaslime\\dtos\\habilidaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\dtos\\habilidaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|d:\\proyectosvs\\api_jujaslime\\api_jujaslime\\dtos\\asignarhabilidadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\dtos\\asignarhabilidadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|d:\\proyectosvs\\api_jujaslime\\api_jujaslime\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|d:\\proyectosvs\\api_jujaslime\\api_jujaslime\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|c:\\users\\carus\\source\\repos\\api_jujaslime\\api_jujaslime\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|d:\\proyectosvs\\api_jujaslime\\api_jujaslime\\dtos\\usuarioupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|c:\\users\\carus\\source\\repos\\api_jujaslime\\api_jujaslime\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|c:\\users\\carus\\source\\repos\\api_jujaslime\\api_jujaslime\\models\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\models\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|c:\\users\\carus\\source\\repos\\api_jujaslime\\api_jujaslime\\dtos\\habilidaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\dtos\\habilidaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|c:\\users\\carus\\source\\repos\\api_jujaslime\\api_jujaslime\\controllers\\habilidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\controllers\\habilidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|c:\\users\\carus\\source\\repos\\api_jujaslime\\api_jujaslime\\controllers\\bestiariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\controllers\\bestiariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|c:\\users\\carus\\source\\repos\\api_jujaslime\\api_jujaslime\\models\\habilidadsujeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\models\\habilidadsujeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|c:\\users\\carus\\source\\repos\\api_jujaslime\\api_jujaslime\\dtos\\asignarhabilidadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\dtos\\asignarhabilidadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|c:\\users\\carus\\source\\repos\\api_jujaslime\\api_jujaslime\\dtos\\usuarioupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\dtos\\usuarioupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|d:\\proyectosvs\\api_jujaslime\\api_jujaslime\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|c:\\users\\carus\\source\\repos\\api_jujaslime\\api_jujaslime\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|d:\\proyectosvs\\api_jujaslime\\api_jujaslime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{664ABA83-3392-41C2-A629-3EC23D2C53D3}|API_JujaSlime\\API_JujaSlime.csproj|solutionrelative:api_jujaslime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,67 +58,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HabilidadDTO.cs",
-              "DocumentMoniker": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\DTOs\\HabilidadDTO.cs",
-              "RelativeDocumentMoniker": "API_JujaSlime\\DTOs\\HabilidadDTO.cs",
-              "ToolTip": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\DTOs\\HabilidadDTO.cs",
-              "RelativeToolTip": "API_JujaSlime\\DTOs\\HabilidadDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T09:42:32.661Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AsignarHabilidadRequest.cs",
-              "DocumentMoniker": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\DTOs\\AsignarHabilidadRequest.cs",
-              "RelativeDocumentMoniker": "API_JujaSlime\\DTOs\\AsignarHabilidadRequest.cs",
-              "ToolTip": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\DTOs\\AsignarHabilidadRequest.cs",
-              "RelativeToolTip": "API_JujaSlime\\DTOs\\AsignarHabilidadRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T09:42:08.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UsuarioUpdateDto.cs",
-              "DocumentMoniker": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\DTOs\\UsuarioUpdateDto.cs",
-              "RelativeDocumentMoniker": "API_JujaSlime\\DTOs\\UsuarioUpdateDto.cs",
-              "ToolTip": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\DTOs\\UsuarioUpdateDto.cs",
-              "RelativeToolTip": "API_JujaSlime\\DTOs\\UsuarioUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T07:53:54.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "HabilidadesController.cs",
-              "DocumentMoniker": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Controllers\\HabilidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Controllers\\HabilidadesController.cs",
               "RelativeDocumentMoniker": "API_JujaSlime\\Controllers\\HabilidadesController.cs",
-              "ToolTip": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Controllers\\HabilidadesController.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Controllers\\HabilidadesController.cs",
               "RelativeToolTip": "API_JujaSlime\\Controllers\\HabilidadesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T15:12:10.541Z",
               "EditorCaption": ""
@@ -127,22 +77,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AuthControllers.cs",
-              "DocumentMoniker": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Controllers\\AuthControllers.cs",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Controllers\\AuthControllers.cs",
               "RelativeDocumentMoniker": "API_JujaSlime\\Controllers\\AuthControllers.cs",
-              "ToolTip": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Controllers\\AuthControllers.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Controllers\\AuthControllers.cs",
               "RelativeToolTip": "API_JujaSlime\\Controllers\\AuthControllers.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T15:05:00.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "LoginRequest.cs",
-              "DocumentMoniker": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Models\\LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Models\\LoginRequest.cs",
               "RelativeDocumentMoniker": "API_JujaSlime\\Models\\LoginRequest.cs",
-              "ToolTip": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Models\\LoginRequest.cs",
               "RelativeToolTip": "API_JujaSlime\\Models\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,49 +101,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "BestiarioController.cs",
-              "DocumentMoniker": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Controllers\\BestiarioController.cs",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Controllers\\BestiarioController.cs",
               "RelativeDocumentMoniker": "API_JujaSlime\\Controllers\\BestiarioController.cs",
-              "ToolTip": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Controllers\\BestiarioController.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Controllers\\BestiarioController.cs",
               "RelativeToolTip": "API_JujaSlime\\Controllers\\BestiarioController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAowD0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T12:57:54.38Z",
+              "WhenOpened": "2026-03-23T12:57:54.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Program.cs",
+              "RelativeDocumentMoniker": "API_JujaSlime\\Program.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Program.cs",
+              "RelativeToolTip": "API_JujaSlime\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T12:45:55.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Program.cs",
-              "RelativeDocumentMoniker": "API_JujaSlime\\Program.cs",
-              "ToolTip": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Program.cs",
-              "RelativeToolTip": "API_JujaSlime\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "HabilidadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\DTOs\\HabilidadDTO.cs",
+              "RelativeDocumentMoniker": "API_JujaSlime\\DTOs\\HabilidadDTO.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\DTOs\\HabilidadDTO.cs",
+              "RelativeToolTip": "API_JujaSlime\\DTOs\\HabilidadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T12:45:55.573Z"
+              "WhenOpened": "2026-03-24T09:42:32.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HabilidadSujeto.cs",
-              "DocumentMoniker": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Models\\HabilidadSujeto.cs",
-              "RelativeDocumentMoniker": "API_JujaSlime\\Models\\HabilidadSujeto.cs",
-              "ToolTip": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Models\\HabilidadSujeto.cs",
-              "RelativeToolTip": "API_JujaSlime\\Models\\HabilidadSujeto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T12:30:54.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Enemigo.cs",
-              "DocumentMoniker": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Models\\Enemigo.cs",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Models\\Enemigo.cs",
               "RelativeDocumentMoniker": "API_JujaSlime\\Models\\Enemigo.cs",
-              "ToolTip": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Models\\Enemigo.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Models\\Enemigo.cs",
               "RelativeToolTip": "API_JujaSlime\\Models\\Enemigo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -202,11 +152,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "API_JujaSlime\\Models\\Usuario.cs",
-              "ToolTip": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Models\\Usuario.cs",
               "RelativeToolTip": "API_JujaSlime\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,24 +166,50 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "UsuarioUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\DTOs\\UsuarioUpdateDto.cs",
+              "RelativeDocumentMoniker": "API_JujaSlime\\DTOs\\UsuarioUpdateDto.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\DTOs\\UsuarioUpdateDto.cs",
+              "RelativeToolTip": "API_JujaSlime\\DTOs\\UsuarioUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:53:54.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AsignarHabilidadRequest.cs",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\DTOs\\AsignarHabilidadRequest.cs",
+              "RelativeDocumentMoniker": "API_JujaSlime\\DTOs\\AsignarHabilidadRequest.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\DTOs\\AsignarHabilidadRequest.cs",
+              "RelativeToolTip": "API_JujaSlime\\DTOs\\AsignarHabilidadRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:42:08.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HabilidadSujeto.cs",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Models\\HabilidadSujeto.cs",
+              "RelativeDocumentMoniker": "API_JujaSlime\\Models\\HabilidadSujeto.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\Models\\HabilidadSujeto.cs",
+              "RelativeToolTip": "API_JujaSlime\\Models\\HabilidadSujeto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T12:30:54.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\appsettings.json",
               "RelativeDocumentMoniker": "API_JujaSlime\\appsettings.json",
-              "ToolTip": "D:\\ProyectosVS\\API_JujaSlime\\API_JujaSlime\\appsettings.json",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\API_JujaSlime\\API_JujaSlime\\appsettings.json",
               "RelativeToolTip": "API_JujaSlime\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-23T12:19:18.931Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
